@@ -1,3 +1,4 @@
+# playbook is list of plays , always it shu\ould start woth -
 - name: pinging the server
   hosts: mongodb
   #list of tasks
